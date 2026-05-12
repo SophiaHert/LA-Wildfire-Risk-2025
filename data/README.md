@@ -6,8 +6,7 @@ Raw data files are not committed due to file size limits.
 
 ### CAL FIRE DINS — primary dataset (~58MB)
 Two separate files for each fire:
-- Palisades: https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::dins-2025-palisades-public-view
-- Eaton: https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::dins-2025-eaton-public-view
+- Palisades and Eaton: [https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::dins-2025-palisades-public-view](https://gis.data.cnra.ca.gov/datasets/994d3dc4569640caadbbc3198d5a3da1_0/explore?location=34.543492%2C-117.853526%2C8)
 
 On each page: Download → Spreadsheet (CSV). Place both in `data/raw/`.
 
